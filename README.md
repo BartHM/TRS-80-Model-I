@@ -11,6 +11,7 @@ Central repository for all TRS-80 Model 1 projects on RetroStack
 - [ALPS Keyboard PCB](https://github.com/RetroStack/TRS-80-Model-I-Keyboard-ALPS) - Replica of the original ALPS keyboard PCB
 - [MX Keyboard](https://github.com/RetroStack/TRS-80-Model-I-Keyboard-MX) - Replacement keyboard with MX keyswitches and keycaps
 - [Keyboard Adapter](https://github.com/RetroStack/TRS-80-Model-I-Keyboard-Adapter) - Adapter allowing interchangeable use of TEC and Tandy Model 1 keyboards across both systems
+- [Mini Monitor](https://github.com/RetroStack/TRS-80_Model-I_Mini-Monitor) - 65% scale TRS-80 Model I Monitor case for modern 8" LCDs
 - [Power Supply (New Design)](https://github.com/RetroStack/TRS-80-Model-I-Power-Supply-New) - Power supply for the Model 1, exposing both AC and DV voltages
   - [Power Supply (Deprecated)](https://github.com/RetroStack/TRS-80-Model-I-Power-Supply) - Other design, but new design above is favored.
 - [Parts](https://www.github.com/RetroStack/TRS-80-Model-I-Parts) - Recreated TRS-80 Model 1 parts printable on a 3D printer or other ways
